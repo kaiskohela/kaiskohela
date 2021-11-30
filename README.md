@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kaiskohela
+- 👋 Hi, I’m @kaiskohila
 - 👀 I’m interested in DevOps and Full-stack developement 
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 I’m a Software Engineer 
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me kais.kohela@ensi-uma.tn
 
